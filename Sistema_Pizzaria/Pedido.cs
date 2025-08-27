@@ -16,5 +16,10 @@ namespace Sistema_Pizzaria
         {
             InitializeComponent();
         }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
